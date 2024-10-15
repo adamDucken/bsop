@@ -1,4 +1,4 @@
 
 ## Getting Started
 
-!(image.png)
+![BSOP](image.png)
