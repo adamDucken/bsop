@@ -1,5 +1,5 @@
 
-**## Black-Scholes Option Pricer**
+## **Black-Scholes Option Pricer**
 
 
 ![BSOP](image.png)
@@ -27,7 +27,7 @@
 
 ### Usage
 
-- **Input:** Enter the necessary parameters (stock price, strike price, time to maturity (years), risk-free rate , volatility).For percentages use this format 0. for example (5% -> 0.05), everything else is decimal.
+- **Input:** Enter the necessary parameters ( stock price, strike price, time to maturity (years), risk-free rate , volatility ). For percentages use this format 0. for example (5% -> 0.05), everything else is decimal.
 - **Output:** The tool will calculate the call and put option prices based on the Black-Scholes model.
 
 ### Future Plans
